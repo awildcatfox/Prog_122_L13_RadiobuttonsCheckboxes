@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog_122_L13_RadiobuttonsCheckboxes", "Prog_122_L13_RadiobuttonsCheckboxes.csproj", "{5DCD5F17-06AD-4BE9-BE5C-BE7E8ECABCCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DCD5F17-06AD-4BE9-BE5C-BE7E8ECABCCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DCD5F17-06AD-4BE9-BE5C-BE7E8ECABCCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DCD5F17-06AD-4BE9-BE5C-BE7E8ECABCCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DCD5F17-06AD-4BE9-BE5C-BE7E8ECABCCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEB7DB7B-FC08-49AB-A9F7-8CA3702C6059}
+	EndGlobalSection
+EndGlobal
